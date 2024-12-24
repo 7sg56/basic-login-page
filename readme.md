@@ -8,8 +8,8 @@ This project is a simple login page created using HTML and CSS.
 basic-login-page/
 ├── index.html
 ├── style.css
-└── readme.md
-└── bg.jph
+├── readme.md
+└── bg.jpg
 ```
 
 ## Files
