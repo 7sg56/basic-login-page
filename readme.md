@@ -27,4 +27,6 @@ This file contains the CSS styles for the login page.
 1. Clone the repository.
 2. Open `index.html` in your web browser to view the login page.
 
-## Preview
+## Preview Link
+
+https://7sg56.github.io/basic-login-page/
